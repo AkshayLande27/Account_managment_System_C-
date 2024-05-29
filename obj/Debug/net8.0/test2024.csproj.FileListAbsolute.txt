@@ -1,0 +1,14 @@
+/Volumes/Work/C#/test2023/bin/Debug/net8.0/test2024
+/Volumes/Work/C#/test2023/bin/Debug/net8.0/test2024.deps.json
+/Volumes/Work/C#/test2023/bin/Debug/net8.0/test2024.runtimeconfig.json
+/Volumes/Work/C#/test2023/bin/Debug/net8.0/test2024.dll
+/Volumes/Work/C#/test2023/bin/Debug/net8.0/test2024.pdb
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.AssemblyInfoInputs.cache
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.AssemblyInfo.cs
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.csproj.CoreCompileInputs.cache
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.dll
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/refint/test2024.dll
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.pdb
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/test2024.genruntimeconfig.cache
+/Volumes/Work/C#/test2023/obj/Debug/net8.0/ref/test2024.dll
